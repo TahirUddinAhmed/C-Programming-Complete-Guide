@@ -1,0 +1,12 @@
+important points:-
+==============
+   a) A c program is a collection of one or more function. 
+   b) If a c program contains only one function, it must be main(). 
+   c) Every function gets called directly or indirectly from main(). 
+   
+   
+ Types of functions:-
+ ================
+    1) Library Function:- commonly required functions group together in a library file on disk. 
+    
+    2) User defined functions:- These are the functions declared and defined by the user. 

@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void){
+	int s[4][2] = {
+		{1234, 56},
+		{1212, 33}, 
+		{1434, 90},
+		{1312, 78}
+	};
+	int *ptr = &s[0][0]; // point to the zeroth element
+	printf("s[0][0] = %d\n", *ptr);
+	printf("s[0][1] = %d\n", *(s[0] +1));
+	printf("s[2][1] = %d\n", *(s[2] +1));
+}

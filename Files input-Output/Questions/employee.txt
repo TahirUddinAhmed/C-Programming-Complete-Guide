@@ -1,0 +1,3 @@
+John	76000
+Smith	89000
+Tahir	99000

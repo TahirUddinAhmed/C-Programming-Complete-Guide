@@ -1,0 +1,41 @@
+//1) No return value & no arguments
+/*
+    void fun();          // prototype
+    fun();                  // call
+    void fun(){         // defination
+    	// statement block; 
+    }
+*/
+//2) No rerurn value & with arguments
+  /*
+  void fun(int a, int b);      //prototype
+  fun(5, 6);                          // call
+  void fun(int a, b){            // define
+  	// statement block; 
+  }
+  */
+//3) with return values & no arguments
+  /*
+  int fun();            // prototype
+  
+  int hold = fun(); // call
+  
+  int fun(){            // defination
+  	// statement block;
+  	return 23;
+  }
+  */
+
+//4) with return values & with arguments
+  /*
+  float fun(int b); // prototype
+  
+  float hold = fun(3); // call 
+  
+  
+  float fun(int b){      // defination
+  	// statement block; 
+  	
+  	return 2.6;
+  }
+  */

@@ -1,0 +1,12 @@
+Important 
+========
+
+arguments          V/S           parameter
+=========                           =========
+
+values that are                values in function 
+passed in function        declaration &
+call                                         defination.
+
+used to send                   used to receive 
+value                                value

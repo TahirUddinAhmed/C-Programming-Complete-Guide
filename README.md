@@ -40,7 +40,3 @@ Connect with me on social media for more programming tutorials, tips, and update
 
 Feel free to reach out, ask questions, and engage in discussions. Let's learn and grow together!
 
-## Contributions
-
-Contributions to this guide are welcome! If you find errors, want to add more programs, or have suggestions for improvement, please feel free to submit issues or pull requests. Let's collaborate to make this guide even more comprehensive and beneficial for the programming
-
